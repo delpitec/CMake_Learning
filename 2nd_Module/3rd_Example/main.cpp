@@ -1,18 +1,6 @@
-#include <iostream>
-
-using namespace std;
-
-double Current(double volt, double ohms){
-    return volt / ohms;
-}
-
-double Power(double volt, double ampere){
-    return volt * ampere;
-}
-
-void PrintResult(string result_type, double result_value){
-    cout << result_type << ": " << result_value << endl;
-}
+#include "Current.h"
+#include "Power.h"
+#include "Print.h"
 
 int main(int argc, char* argv[])
 {
@@ -31,4 +19,4 @@ int main(int argc, char* argv[])
     PrintResult("Power   [W]", power);
 
     return 0;
-} 
+}
