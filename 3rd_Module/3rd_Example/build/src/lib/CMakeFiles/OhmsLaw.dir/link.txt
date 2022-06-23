@@ -1,0 +1,2 @@
+/usr/bin/ar qc libOhmsLaw.a CMakeFiles/OhmsLaw.dir/Current.cpp.o CMakeFiles/OhmsLaw.dir/Power.cpp.o
+/usr/bin/ranlib libOhmsLaw.a

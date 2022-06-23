@@ -1,0 +1,2 @@
+/usr/bin/ar qc libPrintOnScreen.a CMakeFiles/PrintOnScreen.dir/Print.cpp.o
+/usr/bin/ranlib libPrintOnScreen.a
