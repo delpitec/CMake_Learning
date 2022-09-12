@@ -1,9 +1,0 @@
-/home/rafaeldelpino/Desktop/CMakeLearning/3rd_Module/3rd_Example/build/CMakeFiles/edit_cache.dir
-/home/rafaeldelpino/Desktop/CMakeLearning/3rd_Module/3rd_Example/build/CMakeFiles/rebuild_cache.dir
-/home/rafaeldelpino/Desktop/CMakeLearning/3rd_Module/3rd_Example/build/src/lib/CMakeFiles/OhmsLaw.dir
-/home/rafaeldelpino/Desktop/CMakeLearning/3rd_Module/3rd_Example/build/src/lib/CMakeFiles/PrintOnScreen.dir
-/home/rafaeldelpino/Desktop/CMakeLearning/3rd_Module/3rd_Example/build/src/lib/CMakeFiles/edit_cache.dir
-/home/rafaeldelpino/Desktop/CMakeLearning/3rd_Module/3rd_Example/build/src/lib/CMakeFiles/rebuild_cache.dir
-/home/rafaeldelpino/Desktop/CMakeLearning/3rd_Module/3rd_Example/build/src/app/CMakeFiles/electronics_calculator_3_3.dir
-/home/rafaeldelpino/Desktop/CMakeLearning/3rd_Module/3rd_Example/build/src/app/CMakeFiles/edit_cache.dir
-/home/rafaeldelpino/Desktop/CMakeLearning/3rd_Module/3rd_Example/build/src/app/CMakeFiles/rebuild_cache.dir

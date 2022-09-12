@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/electronics_calculator_1_4.dir/main.cpp.o CMakeFiles/electronics_calculator_1_4.dir/Current.cpp.o CMakeFiles/electronics_calculator_1_4.dir/Power.cpp.o CMakeFiles/electronics_calculator_1_4.dir/Print.cpp.o -o electronics_calculator_1_4 

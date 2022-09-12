@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/electronics_calculator_3_2.dir/main.cpp.o -o electronics_calculator_3_2  ../lib/libOhmsLaw.a ../lib/libPrintOnScreen.a ../lib/libOhmsLaw.a ../lib/libPrintOnScreen.a 

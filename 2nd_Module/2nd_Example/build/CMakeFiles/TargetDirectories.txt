@@ -1,3 +1,0 @@
-/home/rafaeldelpino/Desktop/CMakeLearning/2nd_Module/2nd_Example/build/CMakeFiles/electronics_calculator_1_4.dir
-/home/rafaeldelpino/Desktop/CMakeLearning/2nd_Module/2nd_Example/build/CMakeFiles/edit_cache.dir
-/home/rafaeldelpino/Desktop/CMakeLearning/2nd_Module/2nd_Example/build/CMakeFiles/rebuild_cache.dir
