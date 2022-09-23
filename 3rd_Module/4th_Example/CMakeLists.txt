@@ -2,7 +2,7 @@
 
 cmake_minimum_required(VERSION 3.16.3)
 
-# Creates a project Named Calculator_Project with 1.0.0 version
+# Creates a project Named Electronics_Calculator_Project with 3.4.0 version
 project(Electronics_Calculator VERSION 3.4.0)
 
 # CMake should go to these directories and find another CMakeLists.txt
