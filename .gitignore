@@ -14,6 +14,9 @@ _deps
 # VSCode
 .vscode/
 
+# Libre office file
+*.odt
+
 # Prerequisites
 *.d
 

@@ -1,2 +1,0 @@
-/home/rafaeldelpino/Desktop/CMakeLearning/2nd_Module/1st_Example/build/CMakeFiles/edit_cache.dir
-/home/rafaeldelpino/Desktop/CMakeLearning/2nd_Module/1st_Example/build/CMakeFiles/rebuild_cache.dir
